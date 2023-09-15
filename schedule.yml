@@ -1,0 +1,15 @@
+sessions:
+  - date: 2023-03-02
+    time: 13:00
+    title: "Day One"
+    description: ""
+    workshop:
+    location:
+    instructors: ["", ""]
+  - date: 2023-03-02
+    time: 11:00am
+    title: "Day Two"
+    description: ""
+    workshop:
+    location:
+    instructors: ["", ""]    

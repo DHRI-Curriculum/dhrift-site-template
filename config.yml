@@ -1,2 +1,22 @@
-name: 
-institution: 
+organizername: 
+institution:
+
+# Name of building or site of event
+venue: ""
+
+# Street address of event
+address: ""
+
+# Two-letter language code
+language: "en"
+
+# Start date
+datestart: 2023-01-01
+enddate: 2023-01-01
+
+instructors: ["", ""]
+helpers: ["", ""]
+
+# Emails for instructors, organizers, or other contacts
+emails: ["", ""]
+
