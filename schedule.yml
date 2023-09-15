@@ -2,14 +2,14 @@ sessions:
   - date: 2023-03-02
     time: 13:00
     title: "Day One"
-    description: ""
-    workshop:
-    location:
-    instructors: ["", ""]
+    description: "Day One of this event"
+    workshop: "https://api.github.com/repos/dhri-curriculum/workshops/contents/python.md"
+    location: "The Graduate Center, CUNY"
+    instructors: ["Stephen Zweibel"]
   - date: 2023-03-02
     time: 11:00am
     title: "Day Two"
-    description: ""
-    workshop:
-    location:
-    instructors: ["", ""]    
+    description: "Day Two of this event"
+    workshop: "https://api.github.com/repos/dhri-curriculum/workshops/contents/command-line.md"
+    location: "The Graduate Center, CUNY"
+    instructors: ["Lisa M. Rhody"]
