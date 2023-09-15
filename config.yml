@@ -1,11 +1,12 @@
-organizername: 
-institution:
+organizername: Lisa Rhody
+institution: CUNY Graduate Center
+event: Digital Humanities Research Institute
 
 # Name of building or site of event
-venue: ""
+venue: Graduate Center
 
 # Street address of event
-address: ""
+address: 365 5th Ave, New York, NY 10016
 
 # Two-letter language code
 language: "en"
@@ -14,8 +15,8 @@ language: "en"
 datestart: 2023-01-01
 enddate: 2023-01-01
 
-instructors: ["", ""]
-helpers: ["", ""]
+instructors: ["Steve Zweibel", "Leanne Fan"]
+helpers: ["Zachary Lloyd"]
 
 # Emails for instructors, organizers, or other contacts
 emails: ["", ""]
