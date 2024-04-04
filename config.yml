@@ -25,7 +25,7 @@ helpers: ["Zachary Lloyd"]
 # Emails for instructors, organizers, or other contacts
 emails: ["", ""]
 
-workshopsuser: 'dhri-curriculum'
+workshopsuser: dhri-curriculum
 workshopsrepo: workshops 
 
 # sessions:
