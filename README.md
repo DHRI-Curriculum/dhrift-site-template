@@ -53,12 +53,15 @@ For example, if your repository URL is:
 https://app.dhrift.org/inst?instUser=dhri-curriculum&instRepo=dhrift-site-template
 DHRIFT will pull the config.yml from https://github.com/DHRI-Curriculum/dhrift-site-template:
 
+```yaml
 # Example config.yml
 title: "DHRI Curriculum"
 description: "A site for DHRI workshops"
 workshopsuser: dhri-curriculum
-workshopsrepo: workshops 
-The workshopsuser and workshopsrepo keys point to the repository containing the Markdown workshop files.
+workshopsrepo: workshops
+```
+
+The workshopsuser and workshopsrepo keys point to the GitHub repository containing the Markdown workshop files, in this case https://github.com/DHRI-Curriculum/workshops. 
 
 ## Contributing
 
